@@ -1,5 +1,6 @@
 # Monorepos
 
+* Awesome list (by korfa_u) [link](https://github.com/korfuri/awesome-monorepo)
 * Opinion (Please don't) [link](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
   * Counter [link](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70)
   
