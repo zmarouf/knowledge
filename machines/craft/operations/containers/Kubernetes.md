@@ -7,6 +7,8 @@
 * ~~Ksonnet~~ (Retired after Heption acquisition by VMWare) [link](https://ksonnet.io/)
 * Helm [link](https://helm.sh/)
 * Kustomize [link](https://kustomize.io/)
+* Koki Short [link](https://docs.koki.io/short/)
+* ~~Kedge~~ (on "pause" since April 2018) [link](https://github.com/kedgeproject/kedge)
 
 ### Monitoring and Compliance
 
