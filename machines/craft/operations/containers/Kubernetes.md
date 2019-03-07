@@ -10,6 +10,14 @@
 * EKS [link](https://aws.amazon.com/eks/)
 * Others (maintained by Kubernetes) [link](https://kubernetes.io/docs/setup/pick-right-solution/)
 
+### Hands-on
+
+* Minikube [link](https://github.com/kubernetes/minikube)
+* kops [link](https://github.com/kubernetes/kops)
+* kubespray [link](https://github.com/kubernetes-sigs/kubespray)
+* MicroK8s [link](https://microk8s.io/)
+* k3s [link](https://k3s.io/)
+
 ### Templating and Configuration Management
 
 * ~~Ksonnet~~ (Retired after Heption acquisition by VMWare) [link](https://ksonnet.io/)
