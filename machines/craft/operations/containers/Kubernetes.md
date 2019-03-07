@@ -10,6 +10,10 @@
 * Koki Short [link](https://docs.koki.io/short/)
 * ~~Kedge~~ (on "pause" since April 2018) [link](https://github.com/kedgeproject/kedge)
 
+### Storage
+
+* Rook [link](https://rook.io/)
+
 ### Monitoring and Compliance
 
 * Sonobuoy [link](https://github.com/heptio/sonobuoy)
