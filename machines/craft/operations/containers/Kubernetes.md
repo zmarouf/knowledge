@@ -44,6 +44,8 @@
 ### Monitoring and Compliance
 
 * Sonobuoy [link](https://github.com/heptio/sonobuoy)
+* Kube Hunter [link](https://github.com/aquasecurity/kube-hunter)
+* Kube Bench [link](https://github.com/aquasecurity/kube-bench)
 
 ### Backup/Restore
 
