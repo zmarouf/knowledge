@@ -30,7 +30,7 @@
 
 * Kubernetes Janitor [link](https://github.com/hjacobs/kube-janitor)
 * Talos Node OS [link](https://github.com/autonomy/talos)
-* Nodepool Labels Operatoe [link](https://github.com/banzaicloud/nodepool-labels-operator)
+* Nodepool Labels Operator [link](https://github.com/banzaicloud/nodepool-labels-operator)
 
 ### Storage
 
