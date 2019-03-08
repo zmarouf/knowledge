@@ -26,6 +26,12 @@
 * Koki Short [link](https://docs.koki.io/short/)
 * ~~Kedge~~ (on "pause" since April 2018) [link](https://github.com/kedgeproject/kedge)
 
+### Cluster Management
+
+* Kubernetes Janitor [link](https://github.com/hjacobs/kube-janitor)
+* Talos Node OS [link](https://github.com/autonomy/talos)
+* Nodepool Labels Operatoe [link](https://github.com/banzaicloud/nodepool-labels-operator)
+
 ### Storage
 
 * Rook [link](https://rook.io/)
