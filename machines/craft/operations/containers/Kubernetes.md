@@ -26,6 +26,7 @@
 * Kustomize [link](https://kustomize.io/)
 * Koki Short [link](https://docs.koki.io/short/)
 * ~~Kedge~~ (on "pause" since April 2018) [link](https://github.com/kedgeproject/kedge)
+* ~~konfd~~ (not updated by Kelsey Hightower) [link](https://github.com/kelseyhightower/konfd)
 
 ### Cluster Management
 
