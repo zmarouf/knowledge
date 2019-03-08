@@ -17,6 +17,7 @@
 * kubespray [link](https://github.com/kubernetes-sigs/kubespray)
 * MicroK8s [link](https://microk8s.io/)
 * k3s [link](https://k3s.io/)
+* kubicorn [link](https://kubicorn.io/)
 
 ### Templating and Configuration Management
 
